@@ -65,7 +65,7 @@ else
 }
 
 */
-/*
+
 let num1 = parseFInt(prompt("enter 1st number"));
 let num2 = parseFInt(prompt("enter 2nd number"));
 
@@ -80,7 +80,6 @@ else
 }
 
 
-*/
 
 let num1 = parseFInt(prompt("enter the number"));
 
